@@ -1,0 +1,5 @@
+name: 'Explore CodeRabbit'
+type: module
+description: 'Drupal Module to explore and understand code rabbit workflow.'
+package: Custom
+core_version_requirement: ^10 || ^11
