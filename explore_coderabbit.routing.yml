@@ -1,0 +1,7 @@
+explore_coderabbit.example:
+  path: '/explore-coderabbit/example'
+  defaults:
+    _title: 'Example'
+    _controller: '\Drupal\explore_coderabbit\Controller\ExploreCoderabbitController'
+  requirements:
+    _permission: 'Yes'
